@@ -1,5 +1,8 @@
 ---
 engines:
+  checks:
+    enabled: true
+    channel: beta
   phpcodesniffer:
     enabled: true
   phpmd:
