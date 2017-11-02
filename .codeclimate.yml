@@ -7,7 +7,7 @@ engines:
   sonar-php:
     enabled: true
     config:
-      minimum_severity: critical
+      minimum_severity: blocker
 exclude_paths:
   - build/
   - fixtures/
