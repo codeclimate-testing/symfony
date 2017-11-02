@@ -1,2 +1,13 @@
+---
+engines:
+  duplication:
+    enabled: false
+  structure:
+    enabled: false
+  sonar-php:
+    enabled: true
 exclude_paths:
-- "**/Tests/**/*"
+  - build/
+  - fixtures/
+  - gradle/
+  - .gradle/
