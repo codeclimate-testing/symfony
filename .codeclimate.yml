@@ -1,9 +1,9 @@
 ---
 engines:
   duplication:
-    enabled: false
-  structure:
     enabled: true
+  structure:
+    enabled: false
   sonar-php:
     enabled: true
     config:
