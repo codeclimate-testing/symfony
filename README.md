@@ -72,3 +72,5 @@ Symfony development is sponsored by [SensioLabs][21], led by the
 [21]: https://sensiolabs.com
 [22]: https://symfony.com/doc/current/contributing/code/core_team.html
 [23]: https://github.com/symfony/symfony-demo
+
+.
